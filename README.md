@@ -6,7 +6,7 @@
 
 ----
 
-## `whoami`
+## Who Am I
   Student passionate about Computer Science and mathematical / scientific 
   subjects with an irrepressible desire to learn new things.
 
@@ -19,7 +19,7 @@
 
 ----
 
-<h3>Things I code with</h3>
+<h3>Skills</h3>
 <p
   <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
   
