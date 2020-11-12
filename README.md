@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at Engineering and Computer Science student @ Alma Mater Studiorum - Università di Bologna - Campus di Cesena
+- 🔭 I’m currently studying **Engineering and Computer Science** @ Alma Mater Studiorum - Università di Bologna - Campus di Cesena
 
 <!--
 **alemazzo/alemazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
