@@ -39,7 +39,7 @@
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     <img alt="CS" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    <img alt="C" src="https://img.shields.io/badge/-Ansi C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" />
     <img alt="JS" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
