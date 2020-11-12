@@ -43,7 +43,6 @@
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
   
   <b> Programming Languages </b> <br>
@@ -70,7 +69,8 @@
   <b> Other Stuff </b> <br>
   <p>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
+    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
 
 
