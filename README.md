@@ -21,7 +21,7 @@
 ## My Skills
 
   
-  <h4> Operating System </h4> <br> 
+  <b> Operating System </b> <br> 
   <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E34F26?style=flat-square&logo=ubuntu&logoColor=white" />
@@ -30,7 +30,7 @@
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-E34F26?style=flat-square&logo=raspberry-pi&logoColor=white" />
   </p>
   
-  <h4 style="margin-bottom: 0px" > Programming Languages </h4> <br>
+  <b> Programming Languages </b> <br>
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-E34F26?style=flat-square&logo=bash&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
