@@ -32,7 +32,7 @@
   
   <b> Programming Languages </b> <br>
   <p>
-    <img alt="Bash" src="https://img.shields.io/badge/-Bash-E34F26?style=flat-square&logo=bash&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-E34F26?style=flat-square&logo=gnu-bash&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
     <img alt="Dart" src="https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=dart&logoColor=white" />
@@ -40,18 +40,31 @@
     <img alt="C" src="https://img.shields.io/badge/-C-E34F26?style=flat-square&logo=c&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=c++&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white" />
+    <img alt="JS" src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=css&logoColor=white" />  
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   </p>
   
+  <b> Frameworks </b> <br>
+  <p>
+    <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=flat-square&logo=django&logoColor=white" />
+    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-E34F26?style=flat-square&logo=flutter&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white" />
+  </p>
   
-  <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
+  <b> Tools </b> <br>
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
+  </p>
+
   
 
-  <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=flat-square&logo=django&logoColor=white" />
+  
   
   <br>
   
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white" />
+  
+  
 
 
 ----
