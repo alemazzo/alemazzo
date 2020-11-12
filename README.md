@@ -4,8 +4,12 @@
 
 <!--![image](https://github.com/alemazzo/alemazzo/blob/main/presentation.gif)-->
 
+----
+
 ## `whoami`
-  Hi, I'am a student
+  Student passionate about Computer Science and mathematical / scientific 
+  subjects with an irrepressible desire to learn new things.
+
   
   
 ---
