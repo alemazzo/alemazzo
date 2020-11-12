@@ -1,6 +1,8 @@
 # Alessandro Mazzoli
 
-![image](https://github.com/alemazzo/alemazzo/blob/main/presentation.gif)
+<img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" alt="presentation" width="100%"/>
+
+<!--![image](https://github.com/alemazzo/alemazzo/blob/main/presentation.gif)-->
 
 ## `whoami`
   Hi, I'am a student
