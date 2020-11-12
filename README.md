@@ -27,14 +27,18 @@
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-E34F26?style=flat-square&logo=raspberry-pi&logoColor=white" />
   </p>
   
-  <h4> Programming Languages </h4> <br>
+  <h4 style="margin-bottom: 0px" > Programming Languages </h4> <br>
   <p>
     <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
-    <img alt="CS" src="https://img.shields.io/badge/-C#-E34F26?style=flat-square&logo=c-sharp&logoColor=white" />
+    <img alt="Dart" src="https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=dart&logoColor=white" />
+    <img alt="CS" src="https://img.shields.io/badge/-C%23-E34F26?style=flat-square&logo=c-sharp&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/-C-E34F26?style=flat-square&logo=c&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=c++&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white" />
   </p>
+  
+  
   <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
   
 
