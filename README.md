@@ -23,12 +23,12 @@
   
   <b> Operating System </b> <br> 
   <p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-E34F26?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-E34F26?style=for-the-badge&logo=manjaro&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-E34F26?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-E34F26?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
   
   <b> Programming Languages </b> <br>
