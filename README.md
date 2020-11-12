@@ -5,7 +5,7 @@
 
 ----
 
-## WhoAmI
+## Who Am I
 
   ```bash
   $ whoami
