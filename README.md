@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/alemazzo/alemazz/blob/master/dino.gif)
+![image](https://github.com/alemazzo/alemazz/blob/main/dino.gif)
