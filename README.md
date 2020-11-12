@@ -22,7 +22,7 @@
 <p
   
   
-  <h4> Operating System </h4>
+  <h4> Operating System  --  </h4>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-E34F26?style=flat-square&logo=raspberry-pi&logoColor=white" />
   <br>
