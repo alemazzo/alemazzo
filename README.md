@@ -14,7 +14,7 @@
 ## My Activities
 
 - 🔭 I’m currently studying **Engineering and Computer Science @ Università di Bologna**
-- 🌱 I’m currently learning <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-E34F26?style=flat-square&logo=nodejs&logoColor=white" />
+- 🌱 I’m currently learning <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-E34F26?style=flat-square&logo=node.js&logoColor=white" />
 
 ----
 
@@ -24,7 +24,9 @@
   
   <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-E34F26?style=flat-square&logo=raspberry-pi&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=flat-square&logo=django&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
