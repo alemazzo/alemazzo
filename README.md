@@ -1,5 +1,7 @@
 # Alessandro Mazzoli
 
+![image](https://github.com/alemazzo/alemazzo/blob/main/presentation.gif)
+
 ## `whoami`
   Hi, I'am a student
   
