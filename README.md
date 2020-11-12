@@ -1,6 +1,5 @@
-<p style="text-align: center">
-  <img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" alt="presentation"/>
-</p>
+<center>  <img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" alt="presentation"/>
+
 
 <!--![image](https://github.com/alemazzo/alemazzo/blob/main/presentation.gif)-->
 
