@@ -1,16 +1,15 @@
-# Alessandro Mazzoli
-
 <img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" alt="presentation" width="100%"/>
 
 <!--![image](https://github.com/alemazzo/alemazzo/blob/main/presentation.gif)-->
 
 ----
 
-## Who Am I
+<h2>Who Am I</h2>
+  <p>
   Student passionate about Computer Science and mathematical / scientific 
   subjects with an irrepressible desire to learn new things.
-
-  
+  </p>
+ 
   
 ---
 
@@ -19,7 +18,7 @@
 
 ----
 
-<h3>Skills</h3>
+<h2>Skills</h2>
 <p
   <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
   
