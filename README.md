@@ -2,10 +2,9 @@
 
 <h3>Things I code with</h3>
 <p
-  <img alt="Git" src="https://img.shields.io/badge/-Git?style=for-the-badge&logo=git&logoColor=white&label=Git" />
-  <img alt="linux" src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
 - 🔭 I’m currently studying **Engineering and Computer Science**@Università di Bologna
