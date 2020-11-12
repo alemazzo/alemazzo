@@ -5,12 +5,12 @@
 
 ----
 
-## Who Am I
-  Student passionate about Computer Science and mathematical / scientific 
-  subjects with an irrepressible desire to learn new things. 
+## WhoAmI
+
   ```bash
   $ whoami
-  -> Student
+  Student passionate about Computer Science and mathematical / scientific 
+  subjects with an irrepressible desire to learn new things. 
   ```
   
 ---
