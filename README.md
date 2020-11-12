@@ -2,7 +2,7 @@
 
 <h3>Things I code with</h3>
 <p
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=grey />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=grey" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux?style=flat-square&logo=linux&logoColor=white&label=linux" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
