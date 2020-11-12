@@ -70,35 +70,6 @@
 
 ----
 
-## My Educations
-
--  <div> 
-    
-    <b> Bachelor's Degree in Engineering and Computer Science </b>
-    <ul>
-      <li> School : Alma Mater Studiorum - University of Bologna </li>
-      <li> Location : Cesena </li>
-      <li> October 2019 - Today </li>
-      <li> Grade : Coming soon (I hope)
-    </ul>  
-  </div>
-  
--  <div> 
-    
-    <b> Computer Science Diploma </b>
-    <ul>
-      <li> School : I.T.T.S. L. Da Vinci - O. Belluzzi </li>
-      <li> Location : Rimini</li>
-      <li> September 2014 - June 2019 </li>
-      <li> Grade : 93/100      
-    </ul>  
-  </div>
-  
-
-
-
-----
-
 ## Useless Section
 
 ![image](https://github.com/alemazzo/alemazzo/blob/main/dino.gif)
