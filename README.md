@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" align="center" width="75%" alt="presentation"/>
+  <img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" align="center" width="100%" alt="presentation"/>
 </p>
 
 
