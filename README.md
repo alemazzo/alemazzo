@@ -67,6 +67,9 @@
 
 ----
 
+## Useless Section
+
+![image](https://github.com/alemazzo/alemazzo/blob/main/dino.gif)
 
 <!--
 
@@ -81,5 +84,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image](https://github.com/alemazzo/alemazzo/blob/main/dino.gif)
