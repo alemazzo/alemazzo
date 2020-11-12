@@ -1,4 +1,4 @@
-<center>  <img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" alt="presentation"/> </center>
+<img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" align="center" alt="presentation"/>
 
 
 <!--![image](https://github.com/alemazzo/alemazzo/blob/main/presentation.gif)-->
