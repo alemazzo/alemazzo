@@ -14,8 +14,10 @@
 ## My Educations
 
 -  <div> 
+    
+    <b>I.T.T.S. L. Da Vinci - O. Belluzzi</b> - Diploma Informatico
     <ul>
-      <li> <b>I.T.T.S. L. Da Vinci - O. Belluzzi, Rimini</b> - Diploma Informatico </li>
+      <li> Location : Rimini</li>
       <li> Grade : 93/100
     </ul>  
   </div>
