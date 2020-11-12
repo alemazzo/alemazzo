@@ -19,8 +19,7 @@
 ----
 
 ## My Skills
-<p
-  
+
   
   <h4> Operating System </h4> <br> 
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" />
@@ -36,7 +35,7 @@
   
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
+
 
 ----
 
