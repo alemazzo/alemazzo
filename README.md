@@ -23,7 +23,7 @@
   
   <b> Operating System </b> <br> 
   <p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E34F26?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-E34F26?style=flat-square&logo=arch-linux&logoColor=white" />
   <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-E34F26?style=flat-square&logo=manjaro&logoColor=white" />
