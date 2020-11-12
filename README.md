@@ -15,15 +15,26 @@
 
 -  <div> 
     
-    <b>I.T.T.S. L. Da Vinci - O. Belluzzi</b> - Diploma Informatico
+    <b> Computer Science Diploma </b>
     <ul>
+      <li> School : I.T.T.S. L. Da Vinci - O. Belluzzi </li>
       <li> Location : Rimini</li>
-      <li> Grade : 93/100
+      <li> September 2014 - June 2019 </li>
+      <li> Grade : 93/100      
     </ul>  
   </div>
   
-- 🔭 **Engineering and Computer Science@Università di Bologna**
 
+-  <div> 
+    
+    <b> Bachelor's Degree in Engineering and Computer Science </b>
+    <ul>
+      <li> School : Alma Mater Studiorum - University of Bologna </li>
+      <li> Location : Cesena </li>
+      <li> October 2019 - Today </li>
+      <li> Grade : Coming soon (I hope)
+    </ul>  
+  </div>
 
 ----
 
