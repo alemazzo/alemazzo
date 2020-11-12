@@ -14,15 +14,17 @@
 ## My Activities
 
 - 🔭 I’m currently studying **Engineering and Computer Science @ Università di Bologna**
-- 🌱 I’m currently learning : 
+- 🌱 I’m currently learning : <p>
   <ul>
-  <li> <p> <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </p> </li>
-  <li> <p> <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=node.js&logoColor=black" />  </p> </li>
+  <li>  <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </li>
+  <li>  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=node.js&logoColor=black" /> </li>
   </ul>
+  </p>
 - 📚 I'm currently reading : 
   <ul>
     <li> <b>Steve Jobs</b> - Walter Isaacson (2011)</li>
   </ul>
+  
 
 ----
 
