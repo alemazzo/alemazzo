@@ -11,10 +11,24 @@
   
 ---
 
+## My Educations
+
+-  <div> 
+    <ul>
+      <li> <b>I.T.T.S. L. Da Vinci - O. Belluzzi, Rimini</b> - Diploma Informatico </li>
+      <li> Grade : 93/100
+    </ul>  
+  </div>
+  
+- 🔭 **Engineering and Computer Science@Università di Bologna**
+
+
+----
+
 ## My Activities
 
-- 🔭 I’m currently studying **Engineering and Computer Science@Università di Bologna**
-- 🌱 I’m currently learning **Node JS**
+- 🔭 I’m currently studying **Engineering and Computer Science @ Università di Bologna**
+- 🌱 I’m currently learning <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-E34F26?style=flat-square&logo=nodejs&logoColor=white" />
 
 ----
 
