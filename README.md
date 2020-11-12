@@ -18,7 +18,10 @@
   <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=node.js&logoColor=black" />
   </p>
-- 📚 I'm currently reading **Steve Jobs - Walter Isaacson"
+- 📚 I'm currently reading : 
+  <ul>
+    <li> <b>Steve Jobs</b> - Walter Isaacson (2011)</li>
+  </ul>
 
 ----
 
