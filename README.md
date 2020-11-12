@@ -44,6 +44,17 @@
 
 -  <div> 
     
+    <b> Bachelor's Degree in Engineering and Computer Science </b>
+    <ul>
+      <li> School : Alma Mater Studiorum - University of Bologna </li>
+      <li> Location : Cesena </li>
+      <li> October 2019 - Today </li>
+      <li> Grade : Coming soon (I hope)
+    </ul>  
+  </div>
+  
+-  <div> 
+    
     <b> Computer Science Diploma </b>
     <ul>
       <li> School : I.T.T.S. L. Da Vinci - O. Belluzzi </li>
@@ -54,16 +65,7 @@
   </div>
   
 
--  <div> 
-    
-    <b> Bachelor's Degree in Engineering and Computer Science </b>
-    <ul>
-      <li> School : Alma Mater Studiorum - University of Bologna </li>
-      <li> Location : Cesena </li>
-      <li> October 2019 - Today </li>
-      <li> Grade : Coming soon (I hope)
-    </ul>  
-  </div>
+
 
 ----
 
