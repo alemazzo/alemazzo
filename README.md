@@ -23,12 +23,16 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
   
   <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
+  <br>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-E34F26?style=flat-square&logo=raspberry-pi&logoColor=white" />
+  <br>
   <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=flat-square&logo=django&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
+  <br>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
 ----
