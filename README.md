@@ -4,21 +4,20 @@
 
 ----
 
-<h2>Who Am I</h2>
-  <p>
+## Who Am I
   Student passionate about Computer Science and mathematical / scientific 
-  subjects with an irrepressible desire to learn new things.
-  </p>
- 
+  subjects with an irrepressible desire to learn new things. 
   
 ---
+
+## My Activities
 
 - 🔭 I’m currently studying **Engineering and Computer Science@Università di Bologna**
 - 🌱 I’m currently learning **Node JS**
 
 ----
 
-<h2>Skills</h2>
+## My Skills
 <p
   <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
   
@@ -31,7 +30,7 @@
 
 ----
 
-<h3>Where to find me</h3>
+## How to reach me
 <p>
   <a href="https://github.com/alemazzo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.instagram.com/alessandro.py/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
