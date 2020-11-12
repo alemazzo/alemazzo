@@ -38,10 +38,10 @@
     <img alt="Dart" src="https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=dart&logoColor=white" />
     <img alt="CS" src="https://img.shields.io/badge/-C%23-E34F26?style=flat-square&logo=c-sharp&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/-C-E34F26?style=flat-square&logo=c&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=c++&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=cpp&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white" />
     <img alt="JS" src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=css&logoColor=white" />  
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=css3&logoColor=white" />  
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   </p>
   
