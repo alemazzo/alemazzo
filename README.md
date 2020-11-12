@@ -11,7 +11,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-- 🔭 I’m currently studying **Engineering and Computer Science**@Università di Bologna
+- 🔭 I’m currently studying **Engineering and Computer Science@Università di Bologna**
 - 🌱 I’m currently learning **Node JS**
 
 
