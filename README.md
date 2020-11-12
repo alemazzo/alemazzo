@@ -4,6 +4,7 @@
 <p
   <img alt="Git" src="https://img.shields.io/badge/-Git?style=for-the-badge&logo=git&logoColor=white&label=Git" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux?style=for-the-badge&logo=linux&logoColor=white&label=Linux" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5?style=for-the-badge&logo=html5&logoColor=white&label=Linux" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
