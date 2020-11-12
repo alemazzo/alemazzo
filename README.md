@@ -14,7 +14,7 @@
 - 🔭 I’m currently studying **Engineering and Computer Science**@Università di Bologna
 - 🌱 I’m currently learning **Node JS**
 - 📫 How to reach me: 
-- - <a href="https://github.com/alemazzo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+-- <a href="https://github.com/alemazzo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 
 - - <a href="https://www.instagram.com/alessandro.py/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 
