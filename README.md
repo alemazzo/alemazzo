@@ -14,7 +14,8 @@
 ## My Activities
 
 - 🔭 I’m currently studying **Engineering and Computer Science @ Università di Bologna**
-- 🌱 I’m currently learning <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-E34F26?style=flat-square&logo=node.js&logoColor=white" />
+- 🌱 I’m currently learning 
+  <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 ----
 
