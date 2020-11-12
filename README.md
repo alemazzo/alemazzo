@@ -1,7 +1,9 @@
-## Alessandro Mazzoli
+# Alessandro Mazzoli
 
-### $ whoami
+## $ whoami
   Hi, I'am a student
+  
+  
 ---
 
 - 🔭 I’m currently studying **Engineering and Computer Science@Università di Bologna**
