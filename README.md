@@ -5,7 +5,7 @@
 
 ----
 
-## Who Am I
+## 🕵 Who Am I
 
   ```bash
   $ whoami
@@ -16,7 +16,7 @@
   
 ---
 
-## My Activities
+## ☢ My Activities
 
 - 🔭 I’m currently studying **Engineering and Computer Science @ Università di Bologna**
 - 🌱 I’m currently learning : <p>
@@ -33,10 +33,10 @@
 
 ----
 
-## My Skills
+## 💣 My Skills
 
   
-  <b> Operating System </b> <br> 
+  <b> 💻 Operating Systems </b> <br> 
   <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Winzoz-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -46,7 +46,7 @@
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   </p>
   
-  <b> Programming Languages </b> <br>
+  <b> 💻 Programming Languages </b> <br>
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,14 +60,14 @@
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </p>
   
-  <b> Frameworks </b> <br>
+  <b> 🔮 Frameworks </b> <br>
   <p>
     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </p>
   
-  <b> Other Stuff </b> <br>
+  <b> 💡 Other Stuff </b> <br>
   <p>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
@@ -77,7 +77,7 @@
 
 ----
 
-## How to reach me
+## 📫 How to reach me
 <p>
   <a href="https://github.com/alemazzo">
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -96,7 +96,7 @@
 
 ----
 
-## Useless Section
+## 💫 Useless Section
 
 ![image](https://github.com/alemazzo/alemazzo/blob/main/dino.gif)
 
