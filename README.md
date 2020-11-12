@@ -10,7 +10,8 @@
   ```bash
   $ whoami
   
-  Student passionate about Computer Science and mathematical / scientific subjects with an irrepressible desire to learn new things. 
+  Student passionate about Computer Science and mathematical / scientific subjects 
+  with an irrepressible desire to learn new things. 
   ```
   
 ---
