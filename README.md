@@ -63,9 +63,15 @@
 
 ## How to reach me
 <p>
-  <a href="https://github.com/alemazzo"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.instagram.com/alessandro.py/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/alessandro-mazzoli-009868140/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/alemazzo">
+    <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/alessandro.py/">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/alessandro-mazzoli-009868140/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
 </p>
 
 ----
