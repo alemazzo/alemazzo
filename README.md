@@ -11,33 +11,6 @@
   
 ---
 
-## My Educations
-
--  <div> 
-    
-    <b> Computer Science Diploma </b>
-    <ul>
-      <li> School : I.T.T.S. L. Da Vinci - O. Belluzzi </li>
-      <li> Location : Rimini</li>
-      <li> September 2014 - June 2019 </li>
-      <li> Grade : 93/100      
-    </ul>  
-  </div>
-  
-
--  <div> 
-    
-    <b> Bachelor's Degree in Engineering and Computer Science </b>
-    <ul>
-      <li> School : Alma Mater Studiorum - University of Bologna </li>
-      <li> Location : Cesena </li>
-      <li> October 2019 - Today </li>
-      <li> Grade : Coming soon (I hope)
-    </ul>  
-  </div>
-
-----
-
 ## My Activities
 
 - 🔭 I’m currently studying **Engineering and Computer Science @ Università di Bologna**
@@ -65,6 +38,36 @@
   <a href="https://www.linkedin.com/in/alessandro-mazzoli-009868140/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+----
+
+## My Educations
+
+-  <div> 
+    
+    <b> Computer Science Diploma </b>
+    <ul>
+      <li> School : I.T.T.S. L. Da Vinci - O. Belluzzi </li>
+      <li> Location : Rimini</li>
+      <li> September 2014 - June 2019 </li>
+      <li> Grade : 93/100      
+    </ul>  
+  </div>
+  
+
+-  <div> 
+    
+    <b> Bachelor's Degree in Engineering and Computer Science </b>
+    <ul>
+      <li> School : Alma Mater Studiorum - University of Bologna </li>
+      <li> Location : Cesena </li>
+      <li> October 2019 - Today </li>
+      <li> Grade : Coming soon (I hope)
+    </ul>  
+  </div>
+
+----
+
+
 <!--
 
 Here are some ideas to get you started:
@@ -78,7 +81,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-----
 
 ![image](https://github.com/alemazzo/alemazzo/blob/main/dino.gif)
