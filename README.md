@@ -47,7 +47,7 @@
   
   <b> Frameworks </b> <br>
   <p>
-    <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=for-the-badge&logo=django&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=for-the-badge&logo=django&logoColor=092E20" />
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-E34F26?style=for-the-badge&logo=flutter&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </p>
