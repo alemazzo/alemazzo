@@ -87,6 +87,10 @@
   <a href="https://www.linkedin.com/in/alessandro-mazzoli-009868140/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
+  <a href="mailto:developer.alessandro.mazzoli@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>  
+  
 </p>
 
 ----
