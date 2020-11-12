@@ -1,6 +1,6 @@
 # Alessandro Mazzoli
 
-## $ whoami
+## `whoami`
   Hi, I'am a student
   
   
