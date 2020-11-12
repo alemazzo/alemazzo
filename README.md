@@ -16,6 +16,7 @@
 - 🔭 I’m currently studying **Engineering and Computer Science @ Università di Bologna**
 - 🌱 I’m currently learning 
   <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+- 📚 I'm currently reading **Steve Jobs - Walter Isaacson"
 
 ----
 
