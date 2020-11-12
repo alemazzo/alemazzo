@@ -24,38 +24,38 @@
   <b> Operating System </b> <br> 
   <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E34F26?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-E34F26?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-E34F26?style=flat-square&logo=manjaro&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-E34F26?style=flat-square&logo=raspberry-pi&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-E34F26?style=flat-square&logo=Arduino&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-E34F26?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-E34F26?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-E34F26?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-E34F26?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
   
   <b> Programming Languages </b> <br>
   <p>
-    <img alt="Bash" src="https://img.shields.io/badge/-Bash-E34F26?style=flat-square&logo=gnu-bash&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
-    <img alt="Dart" src="https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=dart&logoColor=white" />
-    <img alt="CS" src="https://img.shields.io/badge/-C%23-E34F26?style=flat-square&logo=c-sharp&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/-C-E34F26?style=flat-square&logo=c&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white" />
-    <img alt="JS" src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=css3&logoColor=white" />  
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-E34F26?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Dart" src="https://img.shields.io/badge/-Dart-E34F26?style=for-the-badge&logo=dart&logoColor=white" />
+    <img alt="CS" src="https://img.shields.io/badge/-C%23-E34F26?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/-C-E34F26?style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-E34F26?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="JS" src="https://img.shields.io/badge/-JavaScript-E34F26?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-E34F26?style=for-the-badge&logo=css3&logoColor=white" />  
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </p>
   
   <b> Frameworks </b> <br>
   <p>
-    <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=flat-square&logo=django&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-E34F26?style=flat-square&logo=flutter&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=for-the-badge&logo=django&logoColor=white" />
+    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-E34F26?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </p>
   
   <b> Other Stuff </b> <br>
   <p>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-E34F26?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=for-the-badge&logo=Git&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white" />
   </p>
 
 
