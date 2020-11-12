@@ -1,4 +1,4 @@
-<img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" style="display: block; margin-left: auto; margin-right: auto;" alt="presentation"/>
+<img src="https://github.com/alemazzo/alemazzo/blob/main/presentation.gif" style="display: block; margin-left: auto; margin-right: auto; width: 75%" alt="presentation"/>
 
 <!--![image](https://github.com/alemazzo/alemazzo/blob/main/presentation.gif)-->
 
