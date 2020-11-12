@@ -38,6 +38,7 @@
   
   <b> Operating System </b> <br> 
   <p>
+  <img alt="Windows" src="https://img.shields.io/badge/-Windzoz-0078D6?style=for-the-badge&logo=windows&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
