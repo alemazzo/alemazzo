@@ -22,6 +22,7 @@
 - 🌱 I’m currently learning : <p>
   <ul>
   <li>  <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </li>
+  <li>  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=node.js&logoColor=white" /> </li>
   <li>  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=node.js&logoColor=black" /> </li>
   </ul>
   </p>
