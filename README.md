@@ -29,7 +29,7 @@
 - 📚 I'm currently reading : 
   <ul>
     <li> <b>Steve Jobs</b> - Walter Isaacson (2011)</li>
-  <li> <b>Permanent Record</b> - Edward Snowden (2019) </li>
+  <li> <b>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future </b> - Ashlee Vance (2015) </li>
   </ul>
   
 
