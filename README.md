@@ -28,10 +28,15 @@
   </p>
 - 📚 I'm currently reading : 
   <ul>
-    <li> <b>Steve Jobs</b> - Walter Isaacson (2011)</li>
-  <li> <b>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future </b> - Ashlee Vance (2015) </li>
+    <li> <b>Clean Code</b> - Robert C. Martin (2008)</li>
+    <li> <b>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future </b> - Ashlee Vance (2015) </li>
   </ul>
   
+- 📚 Next readings :
+  <ul>
+    <li> <b>The Clean Coder</b> - Robert C. Martin (2011)</li>
+    <li> <b>Clean Architecture</b> - Robert C. Martin (2017)</li>
+  </ul>
 
 ----
 
