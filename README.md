@@ -40,13 +40,14 @@
   
   <b> 💻 Operating Systems </b> <br> 
   <p>
-  <img alt="Windows" src="https://img.shields.io/badge/-Winzoz-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="POP!_OS" src="https://img.shields.io/badge/-Pop!_os-FCC624?style=for-the-badge&logo=pop_os&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Elementary OS" src="https://img.shields.io/badge/-Elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=black" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/-Winzoz-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </p>
   
   <b> 💻 Programming Languages </b> <br>
