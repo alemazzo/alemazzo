@@ -40,8 +40,7 @@
   
   <b> 💻 Operating Systems </b> <br> 
   <p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="POP!_OS" src="https://img.shields.io/badge/-Pop!_os-FCC624?style=for-the-badge&logo=pop_os&logoColor=black" />
+  <img alt="POP!_OS" src="https://img.shields.io/badge/-Pop!_os-FCC624?style=for-the-badge&logo=pop!_os&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Elementary OS" src="https://img.shields.io/badge/-Elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=black" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
