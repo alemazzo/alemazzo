@@ -18,15 +18,15 @@ $ whoami
 
 ## ☢ My Activities
 
-- 🔭 I’m currently studying **Engineering and Computer Science @ Università di Bologna**
-- 🌱 I’m currently learning : <p>
+- 🔭 Currently studying **Engineering and Computer Science @ Università di Bologna**
+- 🌱 Currently learning : <p>
   <ul>
   <li>  <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </li>
   <li>  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> </li>
   <li>  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> </li>
   </ul>
   </p>
-- 📚 I'm currently reading : 
+- 📚 Currently reading : 
   <ul>
     <li> <b>Clean Code</b> - Robert C. Martin (2008)</li>
     <li> <b>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future </b> - Ashlee Vance (2015) </li>
