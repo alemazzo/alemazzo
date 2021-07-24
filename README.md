@@ -7,12 +7,12 @@
 
 ## 🕵 Who Am I
 
-  ```bash
-  $ whoami
+```bash
+ whoami
   
-  Student passionate about Computer Science and mathematical / scientific subjects 
+ >Student passionate about Computer Science and mathematical / scientific subjects 
   with an irrepressible desire to learn new things. 
-  ```
+```
   
 ---
 
