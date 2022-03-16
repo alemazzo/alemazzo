@@ -19,7 +19,7 @@ $ whoami
 ## ☢ My Activities
 
 - 🔭 Currently studying **Engineering and Computer Science @ Università di Bologna**
-- 🔭 I’m currently working on : 
+- 🔭 Currently working on : 
   <ul>
     <li>
       <a href="https://github.com/alemazzo/blockly2scafi">
