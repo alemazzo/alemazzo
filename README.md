@@ -22,9 +22,7 @@ $ whoami
 - 🔭 I’m currently working on : 
   <ul>
     <li>
-      <a href="https://github.com/alemazzo">
         <img alt="blockly2scafi" src="https://img.shields.io/badge/-blocky2scafi-181717?style=for-the-badge&logo=scala&logoColor=white" />
-      </a>
     </li>
   </ul>
 - 🌱 Currently learning :
