@@ -56,9 +56,10 @@ $ whoami
   
   <b> 💻 Programming Languages </b> <br>
   <p>
-    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Scala" src="https://img.shields.io/badge/-Scala-4EAA25?style=for-the-badge&logo=scala&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     <img alt="CS" src="https://img.shields.io/badge/-C %23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/-Ansi C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
@@ -72,7 +73,8 @@ $ whoami
   <p>
     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
+    <img alt="Scala.js" src="https://img.shields.io/badge/-Scala.js-563D7C?style=for-the-badge&logo=scala.js&logoColor=white" />
   </p>
   
   <b> 💡 Other Stuff </b> <br>
