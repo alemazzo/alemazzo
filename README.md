@@ -19,16 +19,22 @@ $ whoami
 ## ☢ My Activities
 
 - 🔭 Currently studying **Engineering and Computer Science @ Università di Bologna**
-- 🌱 Currently learning : <p>
+- 🔭 I’m currently working on : 
   <ul>
-  <li>  <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </li>
-  <li>  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> </li>
-  <li>  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> </li>
+    <li>
+      <a href="https://github.com/alemazzo">
+        <img alt="blockly2scafi" src="https://img.shields.io/badge/-blocky2scafi-181717?style=for-the-badge&logo=scala&logoColor=white" />
+      </a>
+    </li>
   </ul>
-  </p>
+- 🌱 Currently learning :
+  <ul>
+    <li><img alt="Scala" src="https://img.shields.io/badge/-Scala-563D7C?style=for-the-badge&logo=scala&logoColor=white" /></li>
+    <li><img alt="Scala.js" src="https://img.shields.io/badge/-Scala.js-563D7C?style=for-the-badge&logo=scala&logoColor=white" /></li>
+  </ul>
 - 📚 Currently reading : 
   <ul>
-    <li> <b>Clean Code</b> - Robert C. Martin (2008)</li>
+    <li> <b>Clean Code</b> - Robert C. Martin (2008) </li>
     <li> <b>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future </b> - Ashlee Vance (2015) </li>
   </ul>
   
