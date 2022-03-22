@@ -13,7 +13,9 @@ $ whoami
 > Student passionate about Computer Science and mathematical / scientific subjects 
   with an irrepressible desire to learn new things. 
 ```
-  
+
+![Alemazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemazzo&show_icons=true&theme=tokyonight)
+
 ---
 
 ## ☢ My Activities
