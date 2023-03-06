@@ -24,26 +24,27 @@ $ whoami
 - 🔭 Currently working on : 
   <ul>
     <li>
+      <!--
       <a href="https://github.com/alemazzo/blockly2scafi">
         <img alt="blockly2scafi" src="https://img.shields.io/badge/-blocky2scafi-FCC624?style=for-the-badge&logo=scala&logoColor=white" />
       </a>
+      !-->
     </li>
   </ul>
 - 🌱 Currently learning :
   <ul>
     <li><img alt="Scala" src="https://img.shields.io/badge/-Scala-563D7C?style=for-the-badge&logo=scala&logoColor=white" /></li>
-    <li><img alt="Scala.js" src="https://img.shields.io/badge/-Scala.js-563D7C?style=for-the-badge&logo=scala&logoColor=white" /></li>
   </ul>
 - 📚 Currently reading : 
   <ul>
-    <li> <b>Clean Code</b> - Robert C. Martin (2008) </li>
-    <li> <b>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future </b> - Ashlee Vance (2015) </li>
+    <li> <b>Clean Code</b> - Robert C. Martin (2009) </li>  
+    <li> <b>The Clean Coder</b> - Robert C. Martin (2011)</li>
+    <li> <b>Clean Architecture</b> - Robert C. Martin (2017) </li>
   </ul>
   
 - 📚 Next readings :
   <ul>
-    <li> <b>The Clean Coder</b> - Robert C. Martin (2011)</li>
-    <li> <b>Clean Architecture</b> - Robert C. Martin (2017)</li>
+    
   </ul>
 
 ----
