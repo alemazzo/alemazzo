@@ -16,8 +16,8 @@ code as a cornerstone of software craftsmanship.
 Specializing in distributed systems and microservices, I view coding not just
 as a technical task but as an art form to continually refine.
 
-Fueled by an unquenchable thirst for learning, I navigate challenges with the goal of mastering
-the delicate balance between simplicity and sophistication in code.
+Fueled by an unquenchable thirst for learning, I navigate challenges with the goal
+of mastering the delicate balance between simplicity and sophistication in code.
 
 Clean code is not just a practice but a philosophy that I bring to every project.
 With a commitment to continuous improvement, I aspire to create impactful solutions
