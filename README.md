@@ -7,7 +7,7 @@
 
 ## 🕵 Who Am I
 
-```bash
+```
 $ whoami
   
 > Passionate Computer Science student dedicated to the pursuit of clean and elegant
