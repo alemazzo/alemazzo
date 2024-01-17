@@ -10,8 +10,8 @@
 ```bash
 $ whoami
   
-> Student passionate about Computer Science and mathematical / scientific subjects 
-  with an irrepressible desire to learn new things. 
+> Passionate Computer Science student dedicated to the pursuit of clean and elegant code as a cornerstone of software craftsmanship. Specializing in distributed systems and microservices, I view coding not just as a technical task but as an art form to continually refine.
+Fueled by an unquenchable thirst for learning, I navigate challenges with the goal of mastering the delicate balance between simplicity and sophistication in code. Clean code is not just a practice but a philosophy that I bring to every project. With a commitment to continuous improvement, I aspire to create impactful solutions that not only function seamlessly but also showcase the beauty of well-crafted code.
 ```
 
 ![Alemazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemazzo&show_icons=true&theme=tokyonight)
