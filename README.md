@@ -76,6 +76,7 @@ that not only function seamlessly but also showcase the beauty of well-crafted c
   
   <b> 💻 Programming Languages </b> <br>
   <p>
+    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="Scala" src="https://img.shields.io/badge/-Scala-4EAA25?style=for-the-badge&logo=scala&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
