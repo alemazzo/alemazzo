@@ -34,11 +34,15 @@ that not only function seamlessly but also showcase the beauty of well-crafted c
 - 🔭 Currently working on : 
   <ul>
     <li>
-      <!--
-      <a href="https://github.com/alemazzo/blockly2scafi">
-        <img alt="blockly2scafi" src="https://img.shields.io/badge/-blocky2scafi-FCC624?style=for-the-badge&logo=scala&logoColor=white" />
+      <a href="https://github.com/alemazzo/architect">
+        <img alt="architect" src="https://img.shields.io/badge/-Architect-FCC624?style=for-the-badge" />
       </a>
-      !-->
+      <a href="https://github.com/alemazzo/architect-semantic-release">
+        <img alt="architect-semantic-release" src="https://img.shields.io/badge/-Architect-Semantic-Release-FCC624?style=for-the-badge" />
+      </a>
+      <a href="https://github.com/alemazzo/architec-conventional-commits">
+        <img alt="architect-conventional-commits" src="https://img.shields.io/badge/-Architect-Conventional-Commits-FCC624?style=for-the-badge" />
+      </a>
     </li>
   </ul>
 - 🌱 Currently learning :
@@ -92,6 +96,7 @@ that not only function seamlessly but also showcase the beauty of well-crafted c
   
   <b> 🔮 Frameworks </b> <br>
   <p>
+    <img alt="Micronaut" src="https://img.shields.io/badge/-Micronaut-092E20?style=for-the-badge&logo=micronaut&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
@@ -116,7 +121,7 @@ that not only function seamlessly but also showcase the beauty of well-crafted c
   <a href="https://www.instagram.com/alessandro.py/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
-  <a href="https://www.linkedin.com/in/alessandro-mazzoli-009868140/">
+  <a href="https://www.linkedin.com/in/alessandro-mazzoli/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="mailto:developer.alessandro.mazzoli@gmail.com">
@@ -126,20 +131,3 @@ that not only function seamlessly but also showcase the beauty of well-crafted c
 </p>
 
 ----
-<!--
-## 💫 Useless Section
-
-![image](https://github.com/alemazzo/alemazzo/blob/main/dino.gif)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
