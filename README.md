@@ -5,60 +5,58 @@
 
 ----
 
+![Alemazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemazzo&show_icons=true&theme=tokyonight)
+
+----
+
 ## 🕵 Who Am I
 
 ```
 $ whoami
   
-> Passionate Computer Science student dedicated to the pursuit of clean and elegant
-code as a cornerstone of software craftsmanship.
-
-Specializing in distributed systems and microservices, I view coding not just
-as a technical task but as an art form to continually refine.
-
-Fueled by an unquenchable thirst for learning, I navigate challenges with the goal
-of mastering the delicate balance between simplicity and sophistication in code.
-
-Clean code is not just a practice but a philosophy that I bring to every project.
-With a commitment to continuous improvement, I aspire to create impactful solutions
-that not only function seamlessly but also showcase the beauty of well-crafted code.
+Passionate Computer Science student dedicated to crafting elegant solutions through a blend of
+clean code and thoughtful architecture.
+Viewing coding as both a technical pursuit and an art form, I tirelessly strive to refine my skills.
+Driven by a relentless thirst for knowledge, I tackle challenges with the aim of mastering the delicate
+balance between simplicity and sophistication in both code and architecture.
+With a philosophy focused on clean code and robust architecture, I am committed to creating
+impactful solutions that seamlessly function while showcasing the beauty of well-crafted design.
 ```
-
-![Alemazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemazzo&show_icons=true&theme=tokyonight)
 
 ---
 
 ## ☢ My Activities
 
-- 🔭 Currently studying **Engineering and Computer Science @ Università di Bologna**
-- 🔭 Currently working on : 
+- 🎓 **C.S. & Eng. MSc @ University of Bologna**
+- 🧑🏻‍💻 **Junior Software Engineer @ Zalando**
+- ⚙️ Currently working on: 
   <ul>
     <li>
       <a href="https://github.com/alemazzo/architect">
         <img alt="architect" src="https://img.shields.io/badge/-Architect-FCC624?style=for-the-badge" />
       </a>
+    </li>
+    <li>
       <a href="https://github.com/alemazzo/architect-semantic-release">
-        <img alt="architect-semantic-release" src="https://img.shields.io/badge/-Architect-Semantic-Release-FCC624?style=for-the-badge" />
+        <img alt="architect-semantic-release" src="https://img.shields.io/badge/-Architect_Semantic_Release-FCC624?style=for-the-badge" />
       </a>
+    </li>
+    <li>
       <a href="https://github.com/alemazzo/architec-conventional-commits">
-        <img alt="architect-conventional-commits" src="https://img.shields.io/badge/-Architect-Conventional-Commits-FCC624?style=for-the-badge" />
+        <img alt="architect-conventional-commits" src="https://img.shields.io/badge/-Architect_Conventional_Commits-FCC624?style=for-the-badge" />
       </a>
     </li>
   </ul>
 - 🌱 Currently learning :
   <ul>
-    <li><img alt="Scala" src="https://img.shields.io/badge/-Scala-563D7C?style=for-the-badge&logo=scala&logoColor=white" /></li>
+    <li><img alt="Micronaut" src="https://img.shields.io/badge/-Micronaut-092E20?style=for-the-badge&logo=micronaut&logoColor=white" /></li>
+    <li><img alt="Picocli" src="https://img.shields.io/badge/-Picocli-092E20?style=for-the-badge&logo=picocli&logoColor=white" /></li>
   </ul>
 - 📚 Currently reading : 
   <ul>
     <li> <b>Clean Code</b> - Robert C. Martin (2009) </li>  
     <li> <b>The Clean Coder</b> - Robert C. Martin (2011)</li>
     <li> <b>Clean Architecture</b> - Robert C. Martin (2017) </li>
-  </ul>
-  
-- 📚 Next readings :
-  <ul>
-    
   </ul>
 
 ----
