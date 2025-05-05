@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alemazzo&theme=tokyonight" />
+  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=alemazzo&theme=tokyonight" />
 </p>
 
 
