@@ -6,9 +6,10 @@
 ----
 
 ![Alemazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemazzo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemazzo&layout=compact&theme=tokyonight)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alemazzo&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemazzo&layout=compact&theme=tokyonight)
 
 <!--
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alemazzo&theme=tokyo-night)
