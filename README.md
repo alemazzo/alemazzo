@@ -6,8 +6,8 @@
 ----
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alemazzo&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemazzo&layout=compact&langs_count=8&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alemazzo&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
