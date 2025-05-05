@@ -5,10 +5,15 @@
 
 ----
 
-![Alemazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemazzo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemazzo&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alemazzo&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemazzo&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alemazzo&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=alemazzo&theme=tokyonight" />
+</p>
+
 
 
 <!--
