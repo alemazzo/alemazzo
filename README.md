@@ -56,9 +56,6 @@ impactful solutions that seamlessly function while showcasing the beauty of well
   <a href="https://github.com/alemazzo">
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a> 
-  <a href="https://www.instagram.com/alessandro.py/">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
   <a href="https://www.linkedin.com/in/alessandro-mazzoli/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
